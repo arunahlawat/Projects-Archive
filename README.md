@@ -6,7 +6,7 @@
 ### Feel free to click on the project's name to take a look at each project in more detail 
 ## 📚 Table of Contents
 - [SQL](#sql)
-- [PL/SQL](#pl/sql)
+- [PL/SQL](#plsql)
 - [Excel](#excel)
 - [PowerBI](#powerbi)
 - [Python](#python)
@@ -18,10 +18,10 @@
 | 🍜[Danny's Diner](https://github.com/arunahlawat/SQL-Danny-s-Diner-Project) | Use data to answer a few simple question about customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with customers will help the owner to deliver a better and more personalised experience for their loyal customers. These insights will be used to help decide whether the expansion of existing customer loyalty program is needed.|
 |🍕🏃[Pizza Runner](https://github.com/arunahlawat/SQL-Pizza-Runner-Project) | Danny is expanding his new Pizza Empire and at the same time, he wants to deliver his own pizza to customers directly. Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers. Danny requires further assistance to clean his data and apply some basic calculations so he can better direct his runners and optimise Pizza Runner’s operations.| 
 
-# PL/SQL
+# PLSQL
 | Project Name | Description |  
 |---|---|
-| 📚[Library](https://github.com/arunahlawat/PL-SQL-project-Library-Management) | PL / SQL Project based on a library's database.|
+| 📚[Library](https://github.com/arunahlawat/PL-SQL-project-Library-Management) | PLSQL Project based on a library's database.|
 
 # Excel
 | Project Name | Area | Description | Tools and Functions |   
@@ -34,7 +34,7 @@
 | Project Name | Description |  
 |---|---|
 | 💵[Maven Market](https://github.com/arunahlawat/Power-BI-Dashboard-Maven-Market) | Maven Market is a multi-national grocery chain with locations in Canada, Mexico and the United States. I have performed the task of connecting and shaping the source data, building a relational model, adding calculated columns and measures, and designing a report using different visuals.|
-| 🚴[Adventure Works](https://github.com/arunahlawat/Power-BI-Dashboard-Adventure-Works) | Microsoft AdventureWorks Database Analysis and Visualization with PowerBI. It's sample database, I chose 'AdventureWorksLT2019.bak' and 'AdventureWorksLT2017.bak' data for analysis & visualization. The query editing was done in 'Microsoft SQL Server Management Studio' and visualization part was using 'Microsoft Power BI'. Also for analysis I used MS Excel and PowerBI's query tool.| 
+| 🚴[Adventure Works](https://github.com/arunahlawat/Power-BI-Dashboard-Adventure-Works) | Microsoft AdventureWorks Database Analysis and Visualization with PowerBI. I have performed the task of connecting and shaping the source data, building a relational model, adding calculated columns and measures, and designing a report using different visuals.| 
 
 # Python 
 #### Skills: Data Cleaning, Wrangling, Visualization, Exploratory Data Analysis, Machine Learning
